@@ -7,9 +7,9 @@ There are some important things which you should know about this project before 
 1. please put your user name and password at the place of mine in all the java files.   
    for example : 
    
-   this is in my code :    myconn=DriverManager.getConnection("jdbc:mysql://localhost:3306/result","root","Satya@1657");
+   This is in code :    myconn=DriverManager.getConnection("jdbc:mysql://localhost:3306/result","root","code@123");
    
-   this should your:     myconn=DriverManager.getConnection("jdbc:mysql://localhost:3306/databasename","Username","Password");
+   This should be yours:     myconn=DriverManager.getConnection("jdbc:mysql://localhost:3306/databasename","Username","Password");
    
 2. There is a database in it, you should create it into your device, name of data base is "result" (you can take different).
 
